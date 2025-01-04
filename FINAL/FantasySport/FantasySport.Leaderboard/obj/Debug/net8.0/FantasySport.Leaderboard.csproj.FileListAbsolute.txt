@@ -1,0 +1,133 @@
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\appsettings.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.exe
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.deps.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.runtimeconfig.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.csproj.AssemblyReference.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.AssemblyInfoInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.AssemblyInfo.cs
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.FantasySport.Leaderboard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.build.FantasySport.Leaderboard.props
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FantasySport.Leaderboard.props
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FantasySport.Leaderboard.props
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\scopedcss\bundle\FantasySport.Leaderboard.styles.css
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasyS.B9D3924D.Up2Date
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\refint\FantasySport.Leaderboard.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.genruntimeconfig.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\ref\FantasySport.Leaderboard.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.staticwebassets.runtime.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.sourcelink.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\appsettings.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.staticwebassets.runtime.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.exe
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.deps.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.runtimeconfig.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.pdb
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.csproj.AssemblyReference.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.AssemblyInfoInputs.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.AssemblyInfo.cs
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.FantasySport.Leaderboard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.build.FantasySport.Leaderboard.props
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FantasySport.Leaderboard.props
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FantasySport.Leaderboard.props
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\scopedcss\bundle\FantasySport.Leaderboard.styles.css
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasyS.B9D3924D.Up2Date
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\refint\FantasySport.Leaderboard.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.pdb
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.genruntimeconfig.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\ref\FantasySport.Leaderboard.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\appsettings.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.staticwebassets.runtime.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.FantasySport.Leaderboard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.build.FantasySport.Leaderboard.props
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FantasySport.Leaderboard.props
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FantasySport.Leaderboard.props
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\scopedcss\bundle\FantasySport.Leaderboard.styles.css
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasyS.B9D3924D.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\refint\FantasySport.Leaderboard.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.genruntimeconfig.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\ref\FantasySport.Leaderboard.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\appsettings.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.staticwebassets.runtime.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.exe
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.deps.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.runtimeconfig.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\FantasySport.Leaderboard.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.csproj.AssemblyReference.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.AssemblyInfoInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.AssemblyInfo.cs
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.FantasySport.Leaderboard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.build.FantasySport.Leaderboard.props
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FantasySport.Leaderboard.props
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FantasySport.Leaderboard.props
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\scopedcss\bundle\FantasySport.Leaderboard.styles.css
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasyS.B9D3924D.Up2Date
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\refint\FantasySport.Leaderboard.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\FantasySport.Leaderboard.genruntimeconfig.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Leaderboard\obj\Debug\net8.0\ref\FantasySport.Leaderboard.dll

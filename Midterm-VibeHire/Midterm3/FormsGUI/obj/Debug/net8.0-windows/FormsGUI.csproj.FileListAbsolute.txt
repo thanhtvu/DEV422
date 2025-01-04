@@ -1,0 +1,271 @@
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Form1.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.GenerateResource.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\refint\FormsGUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\ref\FormsGUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\MusicRentalManagementGUI.MusicRental.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Album.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\obj\Debug\net8.0-windows\PlaylistManagerForm.Playlist.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.AspNetCore.Server.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.AspNetCore.Server.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.ClientFactory.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\AlbumService.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Album.resources
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Form1.resources
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\MusicRentalManagementGUI.MusicRental.resources
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\PlaylistManagerForm.Playlist.resources
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.GenerateResource.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\refint\FormsGUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.genruntimeconfig.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\ref\FormsGUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Properties.Resources.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.AspNetCore.Server.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Album.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Form1.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\MusicRentalManagementGUI.MusicRental.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\PlaylistManagerForm.Playlist.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Properties.Resources.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.GenerateResource.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\refint\FormsGUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\FormsGUI\obj\Debug\net8.0-windows\ref\FormsGUI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\FormsGUI.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.AspNetCore.Server.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.ClientFactory.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumClient.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\AlbumService.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\MusicRentalManagementAPI.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\RentalMusicAPI.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\UsersAPI.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\bin\Debug\net8.0-windows\PlaylistApi.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Album.resources
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Form1.resources
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\MusicRentalManagementGUI.MusicRental.resources
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\PlaylistManagerForm.Playlist.resources
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.Properties.Resources.resources
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.GenerateResource.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.csproj.Up2Date
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\refint\FormsGUI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\FormsGUI.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\FormsGUI\obj\Debug\net8.0-windows\ref\FormsGUI.dll

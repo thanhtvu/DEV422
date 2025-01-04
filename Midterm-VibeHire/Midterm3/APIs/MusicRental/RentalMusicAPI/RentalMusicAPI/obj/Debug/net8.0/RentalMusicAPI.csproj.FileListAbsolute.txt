@@ -1,0 +1,192 @@
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.RentalMusicAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\scopedcss\bundle\RentalMusicAPI.styles.css
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMu.C15DBC07.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\refint\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.genruntimeconfig.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\ref\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.RentalMusicAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\scopedcss\bundle\RentalMusicAPI.styles.css
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMu.C15DBC07.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\refint\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.genruntimeconfig.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\ref\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.RentalMusicAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RentalMusicAPI.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentalMusicAPI.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentalMusicAPI.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\scopedcss\bundle\RentalMusicAPI.styles.css
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMu.C15DBC07.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\refint\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\ref\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.RentalMusicAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentalMusicAPI.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\scopedcss\bundle\RentalMusicAPI.styles.css
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMu.C15DBC07.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\refint\RentalMusicAPI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.genruntimeconfig.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\ref\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.RentalMusicAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RentalMusicAPI.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentalMusicAPI.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentalMusicAPI.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\scopedcss\bundle\RentalMusicAPI.styles.css
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMu.C15DBC07.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\refint\RentalMusicAPI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\ref\RentalMusicAPI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.RentalMusicAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RentalMusicAPI.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentalMusicAPI.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentalMusicAPI.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\scopedcss\bundle\RentalMusicAPI.styles.css
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMu.C15DBC07.Up2Date
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\refint\RentalMusicAPI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\RentalMusicAPI.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\obj\Debug\net8.0\ref\RentalMusicAPI.dll

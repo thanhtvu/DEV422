@@ -1,0 +1,14 @@
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.exe
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.dll
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.deps.json
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.runtimeconfig.json
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.pdb
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Blobs.dll
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Common.dll
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\System.ClientModel.dll
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\System.IO.Hashing.dll
+C:\Users\terry\Downloads\WebAppBlob\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll

@@ -1,0 +1,33 @@
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.deps.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.AssemblyInfoInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.AssemblyInfo.cs
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.csproj.CoreCompileInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\obj\Debug\net8.0\refint\FantasySport.Core.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Core\obj\Debug\net8.0\ref\FantasySport.Core.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.deps.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.pdb
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.AssemblyInfoInputs.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.AssemblyInfo.cs
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.csproj.CoreCompileInputs.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\obj\Debug\net8.0\refint\FantasySport.Core.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.pdb
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Core\obj\Debug\net8.0\ref\FantasySport.Core.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.deps.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\bin\Debug\net8.0\FantasySport.Core.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.AssemblyInfoInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.AssemblyInfo.cs
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.csproj.CoreCompileInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\obj\Debug\net8.0\refint\FantasySport.Core.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\obj\Debug\net8.0\FantasySport.Core.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Core\obj\Debug\net8.0\ref\FantasySport.Core.dll

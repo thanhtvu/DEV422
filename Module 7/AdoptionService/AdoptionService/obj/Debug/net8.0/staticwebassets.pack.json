@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\AdoptionService\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdoptionService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AdoptionService.props",
+      "PackagePath": "build\\AdoptionService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdoptionService.props",
+      "PackagePath": "buildMultiTargeting\\AdoptionService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdoptionService.props",
+      "PackagePath": "buildTransitive\\AdoptionService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

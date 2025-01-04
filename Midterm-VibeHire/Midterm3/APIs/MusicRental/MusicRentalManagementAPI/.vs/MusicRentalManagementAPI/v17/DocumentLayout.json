@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\MusicRentalManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65445701-8906-4EB3-BD8A-F8397C8702E7}|MusicRentalManagementAPI\\MusicRentalManagementAPI.csproj|c:\\users\\anita\\onedrive\\desktop\\dev422\\module 01\\practice\\movierentalsystemgui\\music rental management\\musicrentalmanagementapi\\musicrentalmanagementapi\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65445701-8906-4EB3-BD8A-F8397C8702E7}|MusicRentalManagementAPI\\MusicRentalManagementAPI.csproj|solutionrelative:musicrentalmanagementapi\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65445701-8906-4EB3-BD8A-F8397C8702E7}|MusicRentalManagementAPI\\MusicRentalManagementAPI.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\MusicRentalManagementAPI\\musicrentalmanagementapi\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65445701-8906-4EB3-BD8A-F8397C8702E7}|MusicRentalManagementAPI\\MusicRentalManagementAPI.csproj|solutionrelative:musicrentalmanagementapi\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\MusicRentalManagementAPI\\MusicRentalManagementAPI\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "MusicRentalManagementAPI\\Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\MusicRentalManagementAPI\\MusicRentalManagementAPI\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "MusicRentalManagementAPI\\Controllers\\MusicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:56:36.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\MusicRentalManagementAPI\\MusicRentalManagementAPI\\Music.cs",
+              "RelativeDocumentMoniker": "MusicRentalManagementAPI\\Music.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\MusicRentalManagementAPI\\MusicRentalManagementAPI\\Music.cs",
+              "RelativeToolTip": "MusicRentalManagementAPI\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:56:33.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

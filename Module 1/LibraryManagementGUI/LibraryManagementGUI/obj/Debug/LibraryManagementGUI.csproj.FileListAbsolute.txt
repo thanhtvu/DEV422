@@ -1,0 +1,13 @@
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\bin\Debug\LibraryManagementGUI.exe.config
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\bin\Debug\LibraryManagementGUI.exe
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\bin\Debug\LibraryManagementGUI.pdb
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\obj\Debug\LibraryManagementGUI.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\obj\Debug\LibraryManagementGUI.Form1.resources
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\obj\Debug\LibraryManagementGUI.Properties.Resources.resources
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\obj\Debug\LibraryManagementGUI.csproj.GenerateResource.cache
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\obj\Debug\LibraryManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\obj\Debug\LibraryM.42460049.Up2Date
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\obj\Debug\LibraryManagementGUI.exe
+C:\Users\terry\OneDrive\Desktop\DEV422-\LibraryManagementGUI\LibraryManagementGUI\obj\Debug\LibraryManagementGUI.pdb

@@ -1,0 +1,160 @@
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\appsettings.json
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\PlaylistApi.exe
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\PlaylistApi.deps.json
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\PlaylistApi.runtimeconfig.json
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\PlaylistApi.dll
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\PlaylistApi.pdb
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.AssemblyReference.cache
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfoInputs.cache
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfo.cs
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.CoreCompileInputs.cache
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.PlaylistApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PlaylistApi.props
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PlaylistApi.props
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PlaylistApi.props
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\scopedcss\bundle\PlaylistApi.styles.css
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\Playlist.0557A9F4.Up2Date
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.dll
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\refint\PlaylistApi.dll
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.pdb
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\PlaylistApi.genruntimeconfig.cache
+C:\Users\terry\Source\repos\PlaylistApi\PlaylistApi\obj\Debug\net8.0\ref\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.PlaylistApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PlaylistApi.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PlaylistApi.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PlaylistApi.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\scopedcss\bundle\PlaylistApi.styles.css
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\Playlist.0557A9F4.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\refint\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\ref\PlaylistApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\appsettings.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.PlaylistApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PlaylistApi.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PlaylistApi.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PlaylistApi.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\scopedcss\bundle\PlaylistApi.styles.css
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\Playlist.0557A9F4.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\refint\PlaylistApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.genruntimeconfig.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\ref\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.PlaylistApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PlaylistApi.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PlaylistApi.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PlaylistApi.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\scopedcss\bundle\PlaylistApi.styles.css
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\Playlist.0557A9F4.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\refint\PlaylistApi.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\ref\PlaylistApi.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\appsettings.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\PlaylistApi.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.PlaylistApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PlaylistApi.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PlaylistApi.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PlaylistApi.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\scopedcss\bundle\PlaylistApi.styles.css
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\Playlist.0557A9F4.Up2Date
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\refint\PlaylistApi.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\PlaylistApi.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Playlist\PlaylistApi\obj\Debug\net8.0\ref\PlaylistApi.dll

@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APIs\Album\AlbumClient\AlbumClient.csproj" />
+    <ProjectReference Include="..\APIs\Album\AlbumService\AlbumService.csproj" />
+    <ProjectReference Include="..\APIs\MusicRental\MusicRentalManagementAPI\MusicRentalManagementAPI\MusicRentalManagementAPI.csproj" />
+    <ProjectReference Include="..\APIs\MusicRental\RentalMusicAPI\RentalMusicAPI\RentalMusicAPI.csproj" />
+    <ProjectReference Include="..\APIs\MusicRental\UsersAPI\UsersAPI\UsersAPI.csproj" />
+    <ProjectReference Include="..\APIs\Playlist\PlaylistApi\PlaylistApi.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="MusicRental.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Playlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

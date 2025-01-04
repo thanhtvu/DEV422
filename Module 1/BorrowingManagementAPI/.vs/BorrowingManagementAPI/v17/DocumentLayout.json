@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terry\\OneDrive\\Desktop\\DEV422-\\DEV422-\\BorrowingManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29D1D2-0E7A-4D6C-96E8-6B2457E6428F}|BorrowingManagementAPI\\BorrowingManagementAPI.csproj|c:\\users\\terry\\onedrive\\desktop\\dev422-\\dev422-\\borrowingmanagementapi\\borrowingmanagementapi\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29D1D2-0E7A-4D6C-96E8-6B2457E6428F}|BorrowingManagementAPI\\BorrowingManagementAPI.csproj|solutionrelative:borrowingmanagementapi\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29D1D2-0E7A-4D6C-96E8-6B2457E6428F}|BorrowingManagementAPI\\BorrowingManagementAPI.csproj|c:\\users\\terry\\onedrive\\desktop\\dev422-\\dev422-\\borrowingmanagementapi\\borrowingmanagementapi\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29D1D2-0E7A-4D6C-96E8-6B2457E6428F}|BorrowingManagementAPI\\BorrowingManagementAPI.csproj|solutionrelative:borrowingmanagementapi\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowingController.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\OneDrive\\Desktop\\DEV422-\\DEV422-\\BorrowingManagementAPI\\BorrowingManagementAPI\\Controllers\\BorrowingController.cs",
+              "RelativeDocumentMoniker": "BorrowingManagementAPI\\Controllers\\BorrowingController.cs",
+              "ToolTip": "C:\\Users\\terry\\OneDrive\\Desktop\\DEV422-\\DEV422-\\BorrowingManagementAPI\\BorrowingManagementAPI\\Controllers\\BorrowingController.cs",
+              "RelativeToolTip": "BorrowingManagementAPI\\Controllers\\BorrowingController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:44:26.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\OneDrive\\Desktop\\DEV422-\\DEV422-\\BorrowingManagementAPI\\BorrowingManagementAPI\\Borrowing.cs",
+              "RelativeDocumentMoniker": "BorrowingManagementAPI\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\terry\\OneDrive\\Desktop\\DEV422-\\DEV422-\\BorrowingManagementAPI\\BorrowingManagementAPI\\Borrowing.cs",
+              "RelativeToolTip": "BorrowingManagementAPI\\Borrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:40:50.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

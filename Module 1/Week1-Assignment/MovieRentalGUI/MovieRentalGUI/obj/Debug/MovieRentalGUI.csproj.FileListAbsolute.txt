@@ -1,0 +1,13 @@
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\obj\Debug\MovieRentalGUI.csproj.AssemblyReference.cache
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\obj\Debug\MovieRentalGUI.Form1.resources
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\obj\Debug\MovieRentalGUI.Properties.Resources.resources
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\obj\Debug\MovieRentalGUI.csproj.GenerateResource.cache
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\obj\Debug\MovieRentalGUI.csproj.CoreCompileInputs.cache
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\bin\Debug\MovieRentalGUI.exe.config
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\bin\Debug\MovieRentalGUI.exe
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\bin\Debug\MovieRentalGUI.pdb
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\obj\Debug\MovieRen.63ED8A69.Up2Date
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\obj\Debug\MovieRentalGUI.exe
+C:\Users\terry\source\repos\MovieRentalGUI\MovieRentalGUI\obj\Debug\MovieRentalGUI.pdb

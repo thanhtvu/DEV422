@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.player\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|solutionrelative:fantasysport.player\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9CDE76-76CA-4B28-B88B-862E2703ADA5}|FantasySport.Application\\FantasySport.Application.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.application\\services\\playersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9CDE76-76CA-4B28-B88B-862E2703ADA5}|FantasySport.Application\\FantasySport.Application.csproj|solutionrelative:fantasysport.application\\services\\playersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AECE3D6-1D8B-4A69-9593-33B17A23DF8C}|FantasySport.DataAccess\\FantasySport.DataAccess.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.dataaccess\\entities\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AECE3D6-1D8B-4A69-9593-33B17A23DF8C}|FantasySport.DataAccess\\FantasySport.DataAccess.csproj|solutionrelative:fantasysport.dataaccess\\entities\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93788282-6BAB-44B5-BA84-50DD21B6F21B}|FantasySport.Core\\FantasySport.Core.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.core\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93788282-6BAB-44B5-BA84-50DD21B6F21B}|FantasySport.Core\\FantasySport.Core.csproj|solutionrelative:fantasysport.core\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.player\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|solutionrelative:fantasysport.player\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.player\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|solutionrelative:fantasysport.player\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.player\\fantasysport.player.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|solutionrelative:fantasysport.player\\fantasysport.player.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255E1D6-1B8C-4398-8EE0-F658ED3E6D3B}|FantasySport.Team\\FantasySport.Team.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.team\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B255E1D6-1B8C-4398-8EE0-F658ED3E6D3B}|FantasySport.Team\\FantasySport.Team.csproj|solutionrelative:fantasysport.team\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255E1D6-1B8C-4398-8EE0-F658ED3E6D3B}|FantasySport.Team\\FantasySport.Team.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.team\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B255E1D6-1B8C-4398-8EE0-F658ED3E6D3B}|FantasySport.Team\\FantasySport.Team.csproj|solutionrelative:fantasysport.team\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.player\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|solutionrelative:fantasysport.player\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B138764C-D6CF-4C84-AF50-8F082C87A262}|FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.leaderboard\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B138764C-D6CF-4C84-AF50-8F082C87A262}|FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj|solutionrelative:fantasysport.leaderboard\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B138764C-D6CF-4C84-AF50-8F082C87A262}|FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.leaderboard\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B138764C-D6CF-4C84-AF50-8F082C87A262}|FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj|solutionrelative:fantasysport.leaderboard\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B138764C-D6CF-4C84-AF50-8F082C87A262}|FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.leaderboard\\fantasysport.leaderboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B138764C-D6CF-4C84-AF50-8F082C87A262}|FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj|solutionrelative:fantasysport.leaderboard\\fantasysport.leaderboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B255E1D6-1B8C-4398-8EE0-F658ED3E6D3B}|FantasySport.Team\\FantasySport.Team.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.team\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B255E1D6-1B8C-4398-8EE0-F658ED3E6D3B}|FantasySport.Team\\FantasySport.Team.csproj|solutionrelative:fantasysport.team\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F07B-3597-40E4-BEB6-079FEFA5979D}|FantasySport.Score\\FantasySport.Score.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.score\\controllers\\perfomancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F07B-3597-40E4-BEB6-079FEFA5979D}|FantasySport.Score\\FantasySport.Score.csproj|solutionrelative:fantasysport.score\\controllers\\perfomancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F07B-3597-40E4-BEB6-079FEFA5979D}|FantasySport.Score\\FantasySport.Score.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.score\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE34F07B-3597-40E4-BEB6-079FEFA5979D}|FantasySport.Score\\FantasySport.Score.csproj|solutionrelative:fantasysport.score\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.player\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30C1AE2B-AED2-42FB-A87A-0B667049DB64}|FantasySport.Player\\FantasySport.Player.csproj|solutionrelative:fantasysport.player\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AECE3D6-1D8B-4A69-9593-33B17A23DF8C}|FantasySport.DataAccess\\FantasySport.DataAccess.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.dataaccess\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AECE3D6-1D8B-4A69-9593-33B17A23DF8C}|FantasySport.DataAccess\\FantasySport.DataAccess.csproj|solutionrelative:fantasysport.dataaccess\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870109DE-FFF4-4ECC-8AC6-069C43274971}|FantasySport.Infastructure\\FantasySport.Infastructure.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.infastructure\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870109DE-FFF4-4ECC-8AC6-069C43274971}|FantasySport.Infastructure\\FantasySport.Infastructure.csproj|solutionrelative:fantasysport.infastructure\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93788282-6BAB-44B5-BA84-50DD21B6F21B}|FantasySport.Core\\FantasySport.Core.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.core\\contracts\\players\\playersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93788282-6BAB-44B5-BA84-50DD21B6F21B}|FantasySport.Core\\FantasySport.Core.csproj|solutionrelative:fantasysport.core\\contracts\\players\\playersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93788282-6BAB-44B5-BA84-50DD21B6F21B}|FantasySport.Core\\FantasySport.Core.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.core\\models\\performancestat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93788282-6BAB-44B5-BA84-50DD21B6F21B}|FantasySport.Core\\FantasySport.Core.csproj|solutionrelative:fantasysport.core\\models\\performancestat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93788282-6BAB-44B5-BA84-50DD21B6F21B}|FantasySport.Core\\FantasySport.Core.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93788282-6BAB-44B5-BA84-50DD21B6F21B}|FantasySport.Core\\FantasySport.Core.csproj|solutionrelative:fantasysport.core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F07B-3597-40E4-BEB6-079FEFA5979D}|FantasySport.Score\\FantasySport.Score.csproj|c:\\users\\terry\\downloads\\fantasysport-1\\fantasysport\\fantasysport.score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F07B-3597-40E4-BEB6-079FEFA5979D}|FantasySport.Score\\FantasySport.Score.csproj|solutionrelative:fantasysport.score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.DataAccess\\Entities\\PlayerEntity.cs",
+              "RelativeDocumentMoniker": "FantasySport.DataAccess\\Entities\\PlayerEntity.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.DataAccess\\Entities\\PlayerEntity.cs",
+              "RelativeToolTip": "FantasySport.DataAccess\\Entities\\PlayerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:25:27.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersService.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Application\\Services\\PlayersService.cs",
+              "RelativeDocumentMoniker": "FantasySport.Application\\Services\\PlayersService.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Application\\Services\\PlayersService.cs",
+              "RelativeToolTip": "FantasySport.Application\\Services\\PlayersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:25:12.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FantasySport.Player",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\FantasySport.Player.csproj",
+              "RelativeDocumentMoniker": "FantasySport.Player\\FantasySport.Player.csproj",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\FantasySport.Player.csproj",
+              "RelativeToolTip": "FantasySport.Player\\FantasySport.Player.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T03:56:13.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "FantasySport.Player\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "FantasySport.Player\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:14:59.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Core\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "FantasySport.Core\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Core\\Models\\Player.cs",
+              "RelativeToolTip": "FantasySport.Core\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:03:04.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\Program.cs",
+              "RelativeDocumentMoniker": "FantasySport.Player\\Program.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\Program.cs",
+              "RelativeToolTip": "FantasySport.Player\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:56:27.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Team\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FantasySport.Team\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Team\\appsettings.Development.json",
+              "RelativeToolTip": "FantasySport.Team\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T02:06:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FantasySport.Player\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\appsettings.Development.json",
+              "RelativeToolTip": "FantasySport.Player\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T02:06:58.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeaderboardController.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\Controllers\\LeaderboardController.cs",
+              "RelativeDocumentMoniker": "FantasySport.Leaderboard\\Controllers\\LeaderboardController.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\Controllers\\LeaderboardController.cs",
+              "RelativeToolTip": "FantasySport.Leaderboard\\Controllers\\LeaderboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:45:48.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Team\\appsettings.json",
+              "RelativeDocumentMoniker": "FantasySport.Team\\appsettings.json",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Team\\appsettings.json",
+              "RelativeToolTip": "FantasySport.Team\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T03:34:25.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FantasySport.Leaderboard",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj",
+              "RelativeDocumentMoniker": "FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj",
+              "RelativeToolTip": "FantasySport.Leaderboard\\FantasySport.Leaderboard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T03:45:44.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FantasySport.Player\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FantasySport.Player\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T03:56:40.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "FantasySport.Leaderboard\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\wwwroot\\index.html",
+              "RelativeToolTip": "FantasySport.Leaderboard\\wwwroot\\index.html",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-08T09:51:16.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Team\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "FantasySport.Team\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Team\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "FantasySport.Team\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDoAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:26:40.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PerfomanceController.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Score\\Controllers\\PerfomanceController.cs",
+              "RelativeDocumentMoniker": "FantasySport.Score\\Controllers\\PerfomanceController.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Score\\Controllers\\PerfomanceController.cs",
+              "RelativeToolTip": "FantasySport.Score\\Controllers\\PerfomanceController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAYwFQAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:24:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Score\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FantasySport.Score\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Score\\appsettings.Development.json",
+              "RelativeToolTip": "FantasySport.Score\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T03:15:36.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\appsettings.json",
+              "RelativeDocumentMoniker": "FantasySport.Player\\appsettings.json",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Player\\appsettings.json",
+              "RelativeToolTip": "FantasySport.Player\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T02:49:12.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamEntity.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.DataAccess\\Entities\\TeamEntity.cs",
+              "RelativeDocumentMoniker": "FantasySport.DataAccess\\Entities\\TeamEntity.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.DataAccess\\Entities\\TeamEntity.cs",
+              "RelativeToolTip": "FantasySport.DataAccess\\Entities\\TeamEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:08:25.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Infastructure\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "FantasySport.Infastructure\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Infastructure\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "FantasySport.Infastructure\\ApiKeyMiddleware.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:03:54.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Core\\Contracts\\Players\\PlayersResponse.cs",
+              "RelativeDocumentMoniker": "FantasySport.Core\\Contracts\\Players\\PlayersResponse.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Core\\Contracts\\Players\\PlayersResponse.cs",
+              "RelativeToolTip": "FantasySport.Core\\Contracts\\Players\\PlayersResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:03:41.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PerformanceStat.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Core\\Models\\PerformanceStat.cs",
+              "RelativeDocumentMoniker": "FantasySport.Core\\Models\\PerformanceStat.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Core\\Models\\PerformanceStat.cs",
+              "RelativeToolTip": "FantasySport.Core\\Models\\PerformanceStat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:03:11.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Core\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "FantasySport.Core\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Core\\Models\\Team.cs",
+              "RelativeToolTip": "FantasySport.Core\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:03:10.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Score\\Program.cs",
+              "RelativeDocumentMoniker": "FantasySport.Score\\Program.cs",
+              "ToolTip": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Score\\Program.cs",
+              "RelativeToolTip": "FantasySport.Score\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:51:36.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

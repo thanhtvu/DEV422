@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaylistApi", "PlaylistApi\PlaylistApi.csproj", "{798E65DE-2961-47D2-91E0-A1DBE3F0F48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaylistManagerForm", "PlaylistManagerForm\PlaylistManagerForm.csproj", "{B292916A-EBA7-4575-BB24-D1D965F33ACF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{798E65DE-2961-47D2-91E0-A1DBE3F0F48C} = {798E65DE-2961-47D2-91E0-A1DBE3F0F48C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798E65DE-2961-47D2-91E0-A1DBE3F0F48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798E65DE-2961-47D2-91E0-A1DBE3F0F48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798E65DE-2961-47D2-91E0-A1DBE3F0F48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798E65DE-2961-47D2-91E0-A1DBE3F0F48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B292916A-EBA7-4575-BB24-D1D965F33ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B292916A-EBA7-4575-BB24-D1D965F33ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B292916A-EBA7-4575-BB24-D1D965F33ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B292916A-EBA7-4575-BB24-D1D965F33ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB34ABF-6650-45BC-95BC-A9DFD7C0125F}
+	EndGlobalSection
+EndGlobal

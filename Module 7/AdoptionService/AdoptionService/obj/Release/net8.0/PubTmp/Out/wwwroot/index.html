@@ -1,0 +1,341 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Virtual Pet Adoption Platform</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+
+        .pet-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .pet-card {
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+
+            .pet-card:hover {
+                transform: translateY(-5px);
+            }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+            transition: background-color 0.3s;
+        }
+
+            button:hover {
+                background-color: #0056b3;
+            }
+
+        .care-buttons {
+            margin-top: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+
+        .feed-button {
+            background-color: #28a745;
+        }
+
+            .feed-button:hover {
+                background-color: #218838;
+            }
+
+        .play-button {
+            background-color: #ffc107;
+            color: black;
+        }
+
+            .play-button:hover {
+                background-color: #e0a800;
+            }
+
+        .health-button {
+            background-color: #dc3545;
+        }
+
+            .health-button:hover {
+                background-color: #c82333;
+            }
+
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+
+        .pet-stats {
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+        }
+
+        .adopted {
+            opacity: 0.7;
+        }
+
+        .pet-info p {
+            margin: 5px 0;
+            color: #666;
+        }
+
+        .status-bar {
+            height: 10px;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            margin: 5px 0;
+        }
+
+        .status-fill {
+            height: 100%;
+            border-radius: 5px;
+            transition: width 0.3s ease;
+        }
+
+        .happiness-fill {
+            background-color: #28a745;
+        }
+
+        .hunger-fill {
+            background-color: #ffc107;
+        }
+
+        .health-status {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+
+        .health-good {
+            background-color: #d4edda;
+            color: #155724;
+        }
+
+        .health-warning {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+
+        .notification {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #28a745;
+            color: white;
+            display: none;
+            animation: slideIn 0.5s ease;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+            }
+
+            to {
+                transform: translateX(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Virtual Pet Adoption Platform</h1>
+    <div class="pet-list" id="petList">
+        <!-- Pets will be loaded here dynamically -->
+    </div>
+    <div id="notification" class="notification"></div>
+
+    <script>
+        // Service URLs
+        const ADOPTION_SERVICE_URL = 'https://usmanadoptionservice.azurewebsites.net';
+        const CARE_SERVICE_URL = 'https://usmancareservice.azurewebsites.net';
+        const HEALTH_SERVICE_URL = 'https://usmanhealthservice.azurewebsites.net';
+
+        function showNotification(message, type = 'success') {
+            const notification = document.getElementById('notification');
+            notification.textContent = message;
+            notification.style.backgroundColor = type === 'success' ? '#28a745' : '#dc3545';
+            notification.style.display = 'block';
+            setTimeout(() => {
+                notification.style.display = 'none';
+            }, 3000);
+        }
+
+        async function loadPets() {
+            try {
+                const response = await fetch(`${ADOPTION_SERVICE_URL}/api/Pet`);
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+
+                const pets = await response.json();
+                const petList = document.getElementById('petList');
+
+                if (!pets || pets.length === 0) {
+                    petList.innerHTML = '<p style="text-align: center; color: #666;">No pets available for adoption at this time.</p>';
+                    return;
+                }
+
+                petList.innerHTML = pets.map(pet => `
+                        <div class="pet-card ${pet.isAdopted ? 'adopted' : ''}">
+                            <h3>${pet.name}</h3>
+                            <div class="pet-info">
+                                <p>Type: ${pet.type}</p>
+                                <p>Age: ${pet.age} years old</p>
+                                <p>Personality: ${pet.personalityType}</p>
+                                <p>Status: ${pet.isAdopted ? 'Adopted by ' + pet.adoptedBy : 'Available for Adoption'}</p>
+                            </div>
+
+                            <div class="pet-stats">
+                                <p>Happiness Level:</p>
+                                <div class="status-bar">
+                                    <div class="status-fill happiness-fill" id="happiness-fill-${pet.petId}" style="width: 0%"></div>
+                                </div>
+                                <p>Hunger Level:</p>
+                                <div class="status-bar">
+                                    <div class="status-fill hunger-fill" id="hunger-fill-${pet.petId}" style="width: 0%"></div>
+                                </div>
+                                <div class="health-status" id="health-status-${pet.petId}">Checking health...</div>
+                            </div>
+
+                            <div class="care-buttons">
+                                ${!pet.isAdopted ?
+                        `<button onclick="adoptPet(${pet.petId})">Adopt</button>` :
+                        ''
+                    }
+                                <button class="feed-button" onclick="feedPet(${pet.petId})">Feed Pet</button>
+                                <button class="play-button" onclick="playWithPet(${pet.petId})">Play</button>
+                                <button class="health-button" onclick="checkHealth(${pet.petId})">Check Health</button>
+                            </div>
+                        </div>
+                    `).join('');
+
+                // Update stats for each pet
+                pets.forEach(pet => {
+                    updatePetStats(pet.petId);
+                    checkHealth(pet.petId);
+                });
+            } catch (error) {
+                console.error('Error loading pets:', error);
+                document.getElementById('petList').innerHTML =
+                    `<p style="text-align: center; color: #dc3545;">Error loading pets. Please try again later.</p>`;
+            }
+        }
+
+        async function adoptPet(petId) {
+            try {
+                const response = await fetch(`${ADOPTION_SERVICE_URL}/api/Pet/adopt?petID=${petId}&adopterName=TestUser`, {
+                    method: 'POST'
+                });
+
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+
+                showNotification('Pet adopted successfully! 🎉');
+                loadPets();
+            } catch (error) {
+                console.error('Error adopting pet:', error);
+                showNotification('Failed to adopt pet. Please try again.', 'error');
+            }
+        }
+
+        async function feedPet(petId) {
+            try {
+                const response = await fetch(`${CARE_SERVICE_URL}/api/Care/feed?petId=${petId}`, {
+                    method: 'POST'
+                });
+
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+
+                showNotification('Pet has been fed! 🍖');
+                updatePetStats(petId);
+            } catch (error) {
+                console.error('Error feeding pet:', error);
+                showNotification('Failed to feed pet. Please try again.', 'error');
+            }
+        }
+
+        async function playWithPet(petId) {
+            try {
+                const response = await fetch(`${CARE_SERVICE_URL}/api/Care/play?petId=${petId}`, {
+                    method: 'POST'
+                });
+
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+
+                showNotification('Played with pet! 🎾');
+                updatePetStats(petId);
+            } catch (error) {
+                console.error('Error playing with pet:', error);
+                showNotification('Failed to play with pet. Please try again.', 'error');
+            }
+        }
+
+        async function checkHealth(petId) {
+            try {
+                const response = await fetch(`${HEALTH_SERVICE_URL}/api/Health/checkhealth?petId=${petId}`);
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+
+                const health = await response.json();
+                const statusElement = document.getElementById(`health-status-${petId}`);
+
+                if (statusElement) {
+                    statusElement.textContent = health.isHealthy ? 'Healthy' : 'Needs Attention';
+                    statusElement.className = `health-status ${health.isHealthy ? 'health-good' : 'health-warning'}`;
+                }
+            } catch (error) {
+                console.error('Error checking health:', error);
+                const statusElement = document.getElementById(`health-status-${petId}`);
+                if (statusElement) {
+                    statusElement.textContent = 'Health status unavailable';
+                    statusElement.className = 'health-status health-warning';
+                }
+            }
+        }
+
+        async function updatePetStats(petId) {
+            try {
+                const response = await fetch(`${CARE_SERVICE_URL}/api/Care/status?petId=${petId}`);
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+
+                const stats = await response.json();
+
+                const happinessElement = document.getElementById(`happiness-fill-${petId}`);
+                const hungerElement = document.getElementById(`hunger-fill-${petId}`);
+
+                if (happinessElement) {
+                    happinessElement.style.width = `${stats.happinessLevel}%`;
+                }
+                if (hungerElement) {
+                    hungerElement.style.width = `${stats.hungerLevel}%`;
+                }
+            } catch (error) {
+                console.error('Error updating pet stats:', error);
+            }
+        }
+
+        // Initial load
+        loadPets();
+    </script>
+</body>
+</html>

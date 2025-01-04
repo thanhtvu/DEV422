@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x95Lt070neBakSsrufFeuTS5f9OTv8G3/zWeyTwvkPE=",
+  "Source": "HealthMonitoringService",
+  "BasePath": "_content/HealthMonitoringService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

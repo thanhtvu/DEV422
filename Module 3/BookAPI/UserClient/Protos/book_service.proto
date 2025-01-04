@@ -1,0 +1,59 @@
+syntax = "proto3";
+
+option csharp_namespace = "BookApi";
+
+package book;
+
+// Book message with fileds: id, title, author, publication_year
+message Book {
+	int32 id = 1;
+	string title = 2;
+	string author = 3;
+	int32 publication_year = 4;
+}
+
+// BookService with required methods
+service BookService {
+	rpc AddBook (AddBookRequest) returns (AddBookResponse);
+	rpc GetBook (BookRequest) returns (BookResponse);
+	rpc UpdateBook (UpdateBookRequest) returns (Empty); // ERmpty?
+	rpc DeleteBook (DeleteBookRequest) returns (Empty); // Empty?
+	rpc ListBooks (Empty) returns (stream BookResponse);
+}
+
+// to get a specific book
+message BookRequest {
+	int32 bookId = 1;
+}
+
+// 
+message BookResponse {
+	//string bookId = 1;
+	//string bookName = 2;
+	Book book =1;
+
+}
+
+//
+message AddBookRequest {
+	Book book = 1;
+}
+
+//
+message AddBookResponse {
+	string message = 1;
+}
+
+//
+message UpdateBookRequest {
+	Book book = 1;
+}
+
+//
+message DeleteBookRequest {
+	int32 id = 1;
+}
+
+//
+message Empty {}
+

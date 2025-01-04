@@ -1,0 +1,36 @@
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.deps.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.csproj.AssemblyReference.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.AssemblyInfo.cs
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\refint\FantasySport.Infastructure.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\ref\FantasySport.Infastructure.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.deps.json
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.pdb
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.csproj.AssemblyReference.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.AssemblyInfoInputs.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.AssemblyInfo.cs
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\refint\FantasySport.Infastructure.dll
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.pdb
+C:\Users\anita\Downloads\FantasySport (1)\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\ref\FantasySport.Infastructure.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.deps.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\bin\Debug\net8.0\FantasySport.Infastructure.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.csproj.AssemblyReference.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.AssemblyInfoInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.AssemblyInfo.cs
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\refint\FantasySport.Infastructure.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\FantasySport.Infastructure.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Infastructure\obj\Debug\net8.0\ref\FantasySport.Infastructure.dll

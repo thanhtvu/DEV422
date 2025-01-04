@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\MovieManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5443F8-1BE5-4F50-B4FC-9559EFEE6404}|MovieManagementAPI\\MovieManagementAPI.csproj|c:\\users\\terry\\documents\\dev422-\\dev422-\\moviemanagementapi\\moviemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB5443F8-1BE5-4F50-B4FC-9559EFEE6404}|MovieManagementAPI\\MovieManagementAPI.csproj|solutionrelative:moviemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5443F8-1BE5-4F50-B4FC-9559EFEE6404}|MovieManagementAPI\\MovieManagementAPI.csproj|c:\\users\\terry\\documents\\dev422-\\dev422-\\moviemanagementapi\\moviemanagementapi\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5443F8-1BE5-4F50-B4FC-9559EFEE6404}|MovieManagementAPI\\MovieManagementAPI.csproj|solutionrelative:moviemanagementapi\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5443F8-1BE5-4F50-B4FC-9559EFEE6404}|MovieManagementAPI\\MovieManagementAPI.csproj|c:\\users\\terry\\documents\\dev422-\\dev422-\\moviemanagementapi\\moviemanagementapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5443F8-1BE5-4F50-B4FC-9559EFEE6404}|MovieManagementAPI\\MovieManagementAPI.csproj|solutionrelative:moviemanagementapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\MovieManagementAPI\\MovieManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MovieManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\MovieManagementAPI\\MovieManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MovieManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T01:21:41.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\MovieManagementAPI\\MovieManagementAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieManagementAPI\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\MovieManagementAPI\\MovieManagementAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieManagementAPI\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:42:07.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\MovieManagementAPI\\MovieManagementAPI\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieManagementAPI\\Movie.cs",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\MovieManagementAPI\\MovieManagementAPI\\Movie.cs",
+              "RelativeToolTip": "MovieManagementAPI\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:41:12.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

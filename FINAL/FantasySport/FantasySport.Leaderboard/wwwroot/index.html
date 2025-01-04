@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Sports Team Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            margin-bottom: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+            padding: 10px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        button {
+            padding: 10px 20px;
+            margin-top: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        input, select {
+            padding: 10px;
+            margin: 5px 0;
+            width: 100%;
+            box-sizing: border-box;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+
+        .results {
+            margin-top: 20px;
+        }
+
+        .results pre {
+            background: #eee;
+            padding: 10px;
+            border-radius: 4px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fantasy Sports Team Management</h1>
+        <p>Manage your teams, draft players, and track performance!</p>
+    </header>
+
+    <section id="team-management">
+        <h2>Team Management</h2>
+        <form id="create-team-form">
+            <label for="team-name">Create a New Team</label>
+            <input type="text" id="team-name" placeholder="Enter team name" required>
+            <button type="submit">Create Team</button>
+        </form>
+        <div class="results" id="team-results"></div>
+    </section>
+
+    <section id="player-section">
+        <h2>Player Management</h2>
+        <form id="create-player-form">
+            <label for="team-name">Create a New Player</label>
+            <input type="text" id="player-name" placeholder="Enter player name" required>
+            <button type="submit">Create Player</button>
+        </form>
+        <div class="results" id="add-player-results"></div>
+    </section>
+
+    <section id="player-management">
+        <h2>Team players management</h2>
+        <form id="draft-player-form">
+            <label for="player-id">Draft a Player</label>
+            <select id="player-id" required>
+                <option value="" disabled selected>Select a player</option>
+            </select>
+            <label for="team-id">For Team ID</label>
+            <select id="team-id" required>
+                <option value="" disabled selected>Select a team</option>
+            </select>
+            <button type="submit">Draft Player</button>
+        </form>
+        <div class="results" id="player-results"></div>
+    </section>
+
+    <section id="performance-tracking">
+        <h2>Performance Tracking</h2>
+        <button id="simulate-competition">Simulate Competition</button>
+        <div class="results" id="competition-results"></div>
+    </section>
+
+    <section id="leaderboard">
+        <h2>Leaderboard</h2>
+        <button id="view-leaderboard">View Leaderboard</button>
+        <div class="results" id="leaderboard-results"></div>
+    </section>
+
+    <script>
+        let loadPlayers;
+        let loadTeams;
+
+        document.addEventListener("DOMContentLoaded", async () => {
+            const playerSelect = document.getElementById("player-id");
+            const teamSelect = document.getElementById("team-id");
+
+            const fetchData = async (url) => {
+                try {
+                    const response = await fetch(url);
+                    if (!response.ok) throw new Error("Failed to fetch data");
+                    return await response.json();
+                } catch (error) {
+                    console.error("Error:", error);
+                    return [];
+                }
+            };
+            
+            loadPlayers = async () => {
+                playerSelect.innerHTML = '<option value="" disabled selected>Select a player</option>';
+                const response = await fetch("https://fanplayerservice-terry.azurewebsites.net/api/Players/GetAll", {
+                    method: "GET",
+                    headers: {
+                        "X-Api-Key": "FC1DBBD5-E800-4D14-BD78-4FD43935E308"
+                    }
+                });
+                const players = await response.json();
+                players
+                    .forEach(player => {
+                        const option = document.createElement("option");
+                        option.value = player.id;
+                        option.textContent = player.name;
+                        playerSelect.appendChild(option);
+                    });
+            };
+            
+            loadTeams = async () => {
+                teamSelect.innerHTML = '<option value="" disabled selected>Select a team</option>';
+                const response = await fetch("https://fantasyteamservice.azurewebsites.net/api/Teams/GetAll", {
+                    method: "GET",
+                    headers: {
+                        "X-Api-Key": "FC1DBBD5-E800-4D14-BD78-4FD43935E308"
+                    }
+                });
+                const teams = await response.json();
+                teams.forEach(team => {
+                    const option = document.createElement("option");
+                    option.value = team.id;
+                    option.textContent = team.name;
+                    teamSelect.appendChild(option);
+                });
+            };
+
+            await loadPlayers();
+            await loadTeams();
+
+        });
+
+
+        // Create a new team
+        document.getElementById("create-team-form").addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const teamName = document.getElementById("team-name").value;
+
+            const response = await fetch(`https://fantasyteamservice.azurewebsites.net/api/Teams/AddNew`, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "X-Api-Key": "FC1DBBD5-E800-4D14-BD78-4FD43935E308"
+                },
+                body: JSON.stringify({ name: teamName })
+            });
+
+            const result = await response.text();
+            document.getElementById("team-results").innerHTML = `<pre>${result}</pre>`;
+            await loadTeams();
+        });
+
+        // Create a new player
+        document.getElementById("create-player-form").addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const playerName = document.getElementById("player-name").value;
+
+            const response = await fetch(`https://fanplayerservice-terry.azurewebsites.net/api/Players/AddNew`, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "X-Api-Key": "FC1DBBD5-E800-4D14-BD78-4FD43935E308"
+                },
+                body: JSON.stringify({ name: playerName })
+            });
+
+            const result = await response.text();
+            document.getElementById("add-player-results").innerHTML = `<pre>${result}</pre>`;
+            await loadPlayers();
+        });
+
+        // Draft a player
+        document.getElementById("draft-player-form").addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const id = document.getElementById("player-id").value;
+            const teamId = document.getElementById("team-id").value;
+
+            if (id && teamId) {
+                console.log("Drafting Player:", id, "to Team:", teamId);
+            } else {
+                alert("Please select both a player and a team.");
+            }
+
+            try {
+                const response = await fetch(`https://fanplayerservice-terry.azurewebsites.net/api/Players/Add/${id}/ToTeam`, {
+                    method: "PUT", 
+                    headers: {
+                        "Content-Type": "application/json",
+                        "X-Api-Key": "FC1DBBD5-E800-4D14-BD78-4FD43935E308"
+                    },
+                    body: JSON.stringify({ teamId }) 
+                });
+
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    throw new Error(`Error: ${response.status} - ${errorText}`);
+                }
+
+                const result = await response.text();
+
+                document.getElementById("player-results").innerHTML = `<pre>${result}</pre>`;
+            } catch (error) {
+                console.error("Error:", error);
+                document.getElementById("player-results").innerHTML = `<pre>Error: ${error.message}</pre>`;
+            }
+        });
+
+        document.getElementById("simulate-competition").addEventListener("click", async () => {
+            try {
+                const response = await fetch("https://fanscoreservice-terry.azurewebsites.net/api/Perfomance/RunCompetition", {
+                    method: "GET",
+                    headers: {
+                        "X-Api-Key": "FC1DBBD5-E800-4D14-BD78-4FD43935E308"
+                    }
+                });
+
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    throw new Error(`Error: ${response.status} - ${errorText}`);
+                }
+
+                const result = await response.text();
+
+                document.getElementById("competition-results").innerHTML = `<pre>${result}</pre>`;
+            } catch (error) {
+                console.error("Error:", error);
+                document.getElementById("competition-results").innerHTML = `<pre>Error: ${error.message}</pre>`;
+            }
+        });
+
+        // View leaderboard
+        document.getElementById("view-leaderboard").addEventListener("click", async () => {
+            try {
+                const response = await fetch("https://fanleaderboardservice-terry.azurewebsites.net/api/Leaderboard/Get", {
+                    method: "GET",
+                    headers: {
+                        "X-Api-Key": "FC1DBBD5-E800-4D14-BD78-4FD43935E308"
+                    }
+                });
+
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    throw new Error(`Error: ${response.status} - ${errorText}`);
+                }
+
+                const json = await response.json();
+                const result = json.data;  // Extracting an array from the 'data' field
+
+                // Checking the result structure
+                if (!result || !Array.isArray(result)) {
+                    throw new Error("Incorrect data format");
+                }
+
+                // Formatting the result
+                const leaderboard = result.map((team, index) => {
+                    return `<li>${index + 1}. ${team.name} - ${team.averageScore}</li>`;
+                }).join("");
+
+                document.getElementById("leaderboard-results").innerHTML = `<ul>${leaderboard}</ul>`;
+            } catch (error) {
+                console.error("Error:", error);
+                document.getElementById("leaderboard-results").innerHTML = `<pre>Error: ${error.message}</pre>`;
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.deps.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Core.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Core.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.csproj.AssemblyReference.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.AssemblyInfoInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.AssemblyInfo.cs
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.csproj.CoreCompileInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasyS.C76CEAEB.Up2Date
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\refint\FantasySport.Application.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.Application\obj\Release\net8.0\ref\FantasySport.Application.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Core.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Core.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasyS.C76CEAEB.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\refint\FantasySport.Application.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Application\obj\Release\net8.0\ref\FantasySport.Application.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.deps.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Application.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Core.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\bin\Release\net8.0\FantasySport.Core.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.csproj.AssemblyReference.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.AssemblyInfoInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.AssemblyInfo.cs
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.csproj.CoreCompileInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasyS.C76CEAEB.Up2Date
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\refint\FantasySport.Application.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\FantasySport.Application.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.Application\obj\Release\net8.0\ref\FantasySport.Application.dll

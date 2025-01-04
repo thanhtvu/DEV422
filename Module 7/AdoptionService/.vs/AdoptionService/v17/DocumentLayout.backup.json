@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|c:\\users\\terry\\documents\\dev422-uzmanrizvi\\module 7\\adoptionservice\\careservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|solutionrelative:careservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|c:\\users\\terry\\documents\\dev422-uzmanrizvi\\module 7\\adoptionservice\\careservice\\model\\petcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|solutionrelative:careservice\\model\\petcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|c:\\users\\terry\\documents\\dev422-uzmanrizvi\\module 7\\adoptionservice\\careservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|solutionrelative:careservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|c:\\users\\terry\\documents\\dev422-uzmanrizvi\\module 7\\adoptionservice\\careservice\\data\\carecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|solutionrelative:careservice\\data\\carecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|c:\\users\\terry\\documents\\dev422-uzmanrizvi\\module 7\\adoptionservice\\careservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBF98B0D-0BFB-4897-8576-402CAC78EC5A}|CareService\\CareService.csproj|solutionrelative:careservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CareService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CareService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T02:46:52.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetCare.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\Model\\PetCare.cs",
+              "RelativeDocumentMoniker": "CareService\\Model\\PetCare.cs",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\Model\\PetCare.cs",
+              "RelativeToolTip": "CareService\\Model\\PetCare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:46:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\Program.cs",
+              "RelativeDocumentMoniker": "CareService\\Program.cs",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\Program.cs",
+              "RelativeToolTip": "CareService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:40:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CareContext.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\Data\\CareContext.cs",
+              "RelativeDocumentMoniker": "CareService\\Data\\CareContext.cs",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\Data\\CareContext.cs",
+              "RelativeToolTip": "CareService\\Data\\CareContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:39:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\appsettings.json",
+              "RelativeDocumentMoniker": "CareService\\appsettings.json",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\CareService\\appsettings.json",
+              "RelativeToolTip": "CareService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T02:36:39.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

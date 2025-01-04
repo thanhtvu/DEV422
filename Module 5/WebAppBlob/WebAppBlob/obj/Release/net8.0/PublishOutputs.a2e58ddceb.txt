@@ -1,0 +1,14 @@
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.exe
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.dll
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.deps.json
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.runtimeconfig.json
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\WebAppBlob.pdb
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Blobs.dll
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Common.dll
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\System.ClientModel.dll
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\System.IO.Hashing.dll
+C:\Users\urizvi\C#Projects\WebAppBlob\WebAppBlob\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "4D1d8GPhRCE7MbYbpuRWLMlIv0PclORwvopkbFkEZNI=",
+  "Source": "AdoptionService",
+  "BasePath": "_content/AdoptionService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AdoptionService\\wwwroot",
+      "Source": "AdoptionService",
+      "ContentRoot": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\AdoptionService\\wwwroot\\",
+      "BasePath": "_content/AdoptionService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\AdoptionService\\wwwroot\\index.html",
+      "SourceId": "AdoptionService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\terry\\Documents\\DEV422-UzmanRizvi\\Module 7\\AdoptionService\\AdoptionService\\wwwroot\\",
+      "BasePath": "_content/AdoptionService",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

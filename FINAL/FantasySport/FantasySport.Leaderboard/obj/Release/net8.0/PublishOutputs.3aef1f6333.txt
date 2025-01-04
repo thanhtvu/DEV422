@@ -1,0 +1,11 @@
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\FantasySport.Leaderboard.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\FantasySport.Leaderboard.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\FantasySport.Leaderboard.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\FantasySport.Leaderboard.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\FantasySport.Leaderboard.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.Leaderboard\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

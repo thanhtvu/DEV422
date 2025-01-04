@@ -1,0 +1,31 @@
+
+
+
+syntax = "proto3";
+
+option csharp_namespace = "UserAPI.Protos";
+
+
+service UserService{
+	rpc CreateUser (CreateUserRequest) returns (CreateUserResponse);
+	rpc GetUser (UserRequest) returns (UserResponse);
+}
+
+message UserRequest{
+	string userId = 1;
+}
+
+message UserResponse{
+	string userId =1;
+	string name = 2;
+	int32 age = 3;
+}
+
+message CreateUserRequest{
+	string name = 1;
+	int32 age = 2;
+}
+
+message CreateUserResponse{
+	string userId = 1;
+}

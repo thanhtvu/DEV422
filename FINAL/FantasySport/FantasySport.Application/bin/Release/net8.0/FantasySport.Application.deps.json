@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FantasySport.Application/1.0.0": {
+        "dependencies": {
+          "FantasySport.Core": "1.0.0"
+        },
+        "runtime": {
+          "FantasySport.Application.dll": {}
+        }
+      },
+      "FantasySport.Core/1.0.0": {
+        "runtime": {
+          "FantasySport.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FantasySport.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FantasySport.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

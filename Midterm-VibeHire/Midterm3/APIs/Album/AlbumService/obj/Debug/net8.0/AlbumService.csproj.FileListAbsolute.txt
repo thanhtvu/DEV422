@@ -1,0 +1,170 @@
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\AlbumService.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\AlbumService.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\AlbumService.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\AlbumService.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.AlbumService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\scopedcss\bundle\AlbumService.styles.css
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumSer.BC54811E.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\refint\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\AlbumService.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumService\obj\Debug\net8.0\ref\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.AlbumService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\scopedcss\bundle\AlbumService.styles.css
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumSer.BC54811E.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\refint\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\ref\AlbumService.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\appsettings.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.AlbumService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbumService.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumService.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumService.props
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\scopedcss\bundle\AlbumService.styles.css
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumSer.BC54811E.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\refint\AlbumService.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.genruntimeconfig.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumService\obj\Debug\net8.0\ref\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\appsettings.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.AlbumService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumService.props
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\scopedcss\bundle\AlbumService.styles.css
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumSer.BC54811E.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\refint\AlbumService.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\ref\AlbumService.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\appsettings.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\AlbumService.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.AlbumService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbumService.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumService.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumService.props
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\scopedcss\bundle\AlbumService.styles.css
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumSer.BC54811E.Up2Date
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\refint\AlbumService.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\AlbumService.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumService\obj\Debug\net8.0\ref\AlbumService.dll

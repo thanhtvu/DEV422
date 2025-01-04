@@ -1,0 +1,14 @@
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\StoreConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\StoreConsole.AssemblyInfoInputs.cache
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\StoreConsole.AssemblyInfo.cs
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\StoreConsole.csproj.CoreCompileInputs.cache
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\bin\Debug\net8.0\StoreConsole.exe
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\bin\Debug\net8.0\StoreConsole.deps.json
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\bin\Debug\net8.0\StoreConsole.runtimeconfig.json
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\bin\Debug\net8.0\StoreConsole.dll
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\bin\Debug\net8.0\StoreConsole.pdb
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\StoreConsole.dll
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\refint\StoreConsole.dll
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\StoreConsole.pdb
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\StoreConsole.genruntimeconfig.cache
+C:\Users\terry\source\repos\StoreConsole\StoreConsole\obj\Debug\net8.0\ref\StoreConsole.dll

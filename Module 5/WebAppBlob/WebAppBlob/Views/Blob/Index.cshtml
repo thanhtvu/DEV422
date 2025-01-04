@@ -1,0 +1,28 @@
+﻿@model List<string>
+
+<h2>File List</h2>
+<table>
+    <tr>
+        <th>File Name</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var file in Model)
+    {
+        <tr>
+            <td>@file</td>
+            <td>
+                <form method="post" asp-action="DeleteFile">
+                    <input type="hidden" name="fileName" value="@file" />
+                    <button type="submit">Delete</button>
+                </form>
+                <a asp-action="DownloadFile" asp-route-fileName="@file">Download</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<h2>Upload File</h2>
+<form method="post" enctype="multipart/form-data" asp-action="UploadFile">
+    <input type="file" name="file" />
+    <button type="submit">Upload</button>
+</form>

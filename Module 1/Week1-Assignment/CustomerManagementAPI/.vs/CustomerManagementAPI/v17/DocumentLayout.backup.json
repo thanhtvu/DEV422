@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D11883-58CB-45CE-BCD6-F02C52E27094}|CustomerManagementAPI\\CustomerManagementAPI.csproj|c:\\users\\terry\\documents\\dev422-\\dev422-\\customermanagementapi\\customermanagementapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D11883-58CB-45CE-BCD6-F02C52E27094}|CustomerManagementAPI\\CustomerManagementAPI.csproj|solutionrelative:customermanagementapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D11883-58CB-45CE-BCD6-F02C52E27094}|CustomerManagementAPI\\CustomerManagementAPI.csproj|c:\\users\\terry\\documents\\dev422-\\dev422-\\customermanagementapi\\customermanagementapi\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D11883-58CB-45CE-BCD6-F02C52E27094}|CustomerManagementAPI\\CustomerManagementAPI.csproj|solutionrelative:customermanagementapi\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D11883-58CB-45CE-BCD6-F02C52E27094}|CustomerManagementAPI\\CustomerManagementAPI.csproj|c:\\users\\terry\\documents\\dev422-\\dev422-\\customermanagementapi\\customermanagementapi\\customermanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A9D11883-58CB-45CE-BCD6-F02C52E27094}|CustomerManagementAPI\\CustomerManagementAPI.csproj|solutionrelative:customermanagementapi\\customermanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D11883-58CB-45CE-BCD6-F02C52E27094}|CustomerManagementAPI\\CustomerManagementAPI.csproj|c:\\users\\terry\\documents\\dev422-\\dev422-\\customermanagementapi\\customermanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9D11883-58CB-45CE-BCD6-F02C52E27094}|CustomerManagementAPI\\CustomerManagementAPI.csproj|solutionrelative:customermanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\CustomerManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\CustomerManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T21:23:13.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerManagementAPI",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\CustomerManagementAPI\\CustomerManagementAPI.csproj",
+              "RelativeDocumentMoniker": "CustomerManagementAPI\\CustomerManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\CustomerManagementAPI\\CustomerManagementAPI.csproj",
+              "RelativeToolTip": "CustomerManagementAPI\\CustomerManagementAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T21:23:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\CustomerManagementAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerManagementAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\CustomerManagementAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerManagementAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:59:09.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\CustomerManagementAPI\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerManagementAPI\\Customer.cs",
+              "ToolTip": "C:\\Users\\terry\\Documents\\DEV422-\\DEV422-\\CustomerManagementAPI\\CustomerManagementAPI\\Customer.cs",
+              "RelativeToolTip": "CustomerManagementAPI\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:57:41.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

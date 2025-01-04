@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|c:\\users\\terry\\source\\repos\\bankaccountmangementsystem\\bankaccountmangementsystem\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|solutionrelative:bankaccountmangementsystem\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|c:\\users\\terry\\source\\repos\\bankaccountmangementsystem\\bankaccountmangementsystem\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|solutionrelative:bankaccountmangementsystem\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|c:\\users\\terry\\source\\repos\\bankaccountmangementsystem\\bankaccountmangementsystem\\intereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|solutionrelative:bankaccountmangementsystem\\intereststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|c:\\users\\terry\\source\\repos\\bankaccountmangementsystem\\bankaccountmangementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|solutionrelative:bankaccountmangementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|c:\\users\\terry\\source\\repos\\bankaccountmangementsystem\\bankaccountmangementsystem\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|solutionrelative:bankaccountmangementsystem\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|c:\\users\\terry\\source\\repos\\bankaccountmangementsystem\\bankaccountmangementsystem\\accountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D17BB-9042-41C3-AE8C-758E12CE0204}|BankAccountMangementSystem\\BankAccountMangementSystem.csproj|solutionrelative:bankaccountmangementsystem\\accountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountFactory.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\AccountFactory.cs",
+              "RelativeDocumentMoniker": "BankAccountMangementSystem\\AccountFactory.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\AccountFactory.cs",
+              "RelativeToolTip": "BankAccountMangementSystem\\AccountFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:56:50.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountMangementSystem\\CheckingAccount.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\CheckingAccount.cs",
+              "RelativeToolTip": "BankAccountMangementSystem\\CheckingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:21:16.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountMangementSystem\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\SavingAccount.cs",
+              "RelativeToolTip": "BankAccountMangementSystem\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:21:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterestStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\InterestStrategy.cs",
+              "RelativeDocumentMoniker": "BankAccountMangementSystem\\InterestStrategy.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\InterestStrategy.cs",
+              "RelativeToolTip": "BankAccountMangementSystem\\InterestStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:54:05.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccountMangementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\Program.cs",
+              "RelativeToolTip": "BankAccountMangementSystem\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:40:40.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountMangementSystem\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BankAccountMangementSystem\\BankAccountMangementSystem\\BankAccount.cs",
+              "RelativeToolTip": "BankAccountMangementSystem\\BankAccount.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:42:13.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

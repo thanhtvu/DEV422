@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\UsersAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{768EB489-E015-4DBE-91BE-797C679A69AE}|UsersAPI\\UsersAPI.csproj|c:\\users\\anita\\onedrive\\desktop\\dev422\\module 01\\practice\\movierentalsystemgui\\music rental management\\usersapi\\usersapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768EB489-E015-4DBE-91BE-797C679A69AE}|UsersAPI\\UsersAPI.csproj|solutionrelative:usersapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768EB489-E015-4DBE-91BE-797C679A69AE}|UsersAPI\\UsersAPI.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\UsersAPI\\usersapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768EB489-E015-4DBE-91BE-797C679A69AE}|UsersAPI\\UsersAPI.csproj|solutionrelative:usersapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\UsersAPI\\UsersAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UsersAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\UsersAPI\\UsersAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UsersAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:14:11.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\UsersAPI\\UsersAPI\\User.cs",
+              "RelativeDocumentMoniker": "UsersAPI\\User.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV422\\Module 01\\Practice\\MovieRentalSystemGUI\\Music Rental Management\\UsersAPI\\UsersAPI\\User.cs",
+              "RelativeToolTip": "UsersAPI\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:06:25.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

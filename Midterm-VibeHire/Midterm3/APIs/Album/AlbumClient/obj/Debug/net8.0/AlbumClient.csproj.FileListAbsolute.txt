@@ -1,0 +1,105 @@
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\AlbumClient.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\AlbumClient.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\refint\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumClient.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\ref\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\AlbumClient.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\AlbumClient.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumCli.B4D8BAB2.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm\AlbumClient\obj\Debug\net8.0\AlbumClient.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumCli.B4D8BAB2.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\refint\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\ref\AlbumClient.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.runtimeconfig.json
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumCli.B4D8BAB2.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\refint\AlbumClient.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.genruntimeconfig.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Midterm_Updated\Midterm2\APIs\Album\AlbumClient\obj\Debug\net8.0\ref\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.deps.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.runtimeconfig.json
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfoInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfo.cs
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumCli.B4D8BAB2.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\refint\AlbumClient.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.genruntimeconfig.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\ref\AlbumClient.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.exe
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.deps.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\AlbumClient.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.AssemblyReference.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumCli.B4D8BAB2.Up2Date
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\refint\AlbumClient.dll
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.pdb
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\AlbumClient.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\Midterm3\APIs\Album\AlbumClient\obj\Debug\net8.0\ref\AlbumClient.dll

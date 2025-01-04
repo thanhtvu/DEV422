@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FantasySport.Leaderboard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FantasySport.Leaderboard.props",
+      "PackagePath": "build\\FantasySport.Leaderboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FantasySport.Leaderboard.props",
+      "PackagePath": "buildMultiTargeting\\FantasySport.Leaderboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FantasySport.Leaderboard.props",
+      "PackagePath": "buildTransitive\\FantasySport.Leaderboard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

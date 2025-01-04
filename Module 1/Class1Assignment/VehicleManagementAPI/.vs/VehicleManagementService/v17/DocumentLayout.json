@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terry\\source\\repos\\VehicleManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8136BFE0-42E7-444A-BAEF-DFB5899CB2E0}|VehicleManagementAPI\\VehicleManagementAPI.csproj|c:\\users\\terry\\source\\repos\\vehiclemanagementapi\\vehiclemanagementapi\\controllers\\vehiclemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136BFE0-42E7-444A-BAEF-DFB5899CB2E0}|VehicleManagementAPI\\VehicleManagementAPI.csproj|solutionrelative:vehiclemanagementapi\\controllers\\vehiclemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8136BFE0-42E7-444A-BAEF-DFB5899CB2E0}|VehicleManagementAPI\\VehicleManagementAPI.csproj|c:\\users\\terry\\source\\repos\\vehiclemanagementapi\\vehiclemanagementapi\\vehiclemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8136BFE0-42E7-444A-BAEF-DFB5899CB2E0}|VehicleManagementAPI\\VehicleManagementAPI.csproj|solutionrelative:vehiclemanagementapi\\vehiclemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\VehicleManagementAPI\\VehicleManagementAPI\\Controllers\\VehicleManagementController.cs",
+              "RelativeDocumentMoniker": "VehicleManagementAPI\\Controllers\\VehicleManagementController.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\VehicleManagementAPI\\VehicleManagementAPI\\Controllers\\VehicleManagementController.cs",
+              "RelativeToolTip": "VehicleManagementAPI\\Controllers\\VehicleManagementController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:58:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleManagement.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\VehicleManagementAPI\\VehicleManagementAPI\\VehicleManagement.cs",
+              "RelativeDocumentMoniker": "VehicleManagementAPI\\VehicleManagement.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\VehicleManagementAPI\\VehicleManagementAPI\\VehicleManagement.cs",
+              "RelativeToolTip": "VehicleManagementAPI\\VehicleManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:47:36.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

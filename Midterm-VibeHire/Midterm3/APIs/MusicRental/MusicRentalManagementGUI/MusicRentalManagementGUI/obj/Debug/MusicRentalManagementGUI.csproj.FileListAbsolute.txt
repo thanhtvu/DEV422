@@ -1,0 +1,39 @@
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.Form1.resources
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.Properties.Resources.resources
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.GenerateResource.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.exe.config
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRen.799DFFF1.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\VibeHive Mid-Term\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.exe.config
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.Form1.resources
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.Properties.Resources.resources
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.GenerateResource.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRen.799DFFF1.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.exe
+C:\Users\anita\OneDrive\Desktop\DEV422\Module 01\Practice\MovieRentalSystemGUI\Music Rental Management\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.exe.config
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\MusicRentalManagementGUI.pdb
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.AssemblyReference.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.Form1.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.Properties.Resources.resources
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.GenerateResource.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRen.799DFFF1.Up2Date
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.exe
+C:\Users\Asher Parker\OneDrive\Old Shit\Desktop\DEV422\Midterm2\APIs\MusicRental\MusicRentalManagementGUI\MusicRentalManagementGUI\obj\Debug\MusicRentalManagementGUI.pdb

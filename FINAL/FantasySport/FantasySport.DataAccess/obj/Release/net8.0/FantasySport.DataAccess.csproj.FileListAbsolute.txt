@@ -1,0 +1,51 @@
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.deps.json
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Application.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Core.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Application.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Core.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.AssemblyInfo.cs
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasyS.6E35CBEF.Up2Date
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\refint\FantasySport.DataAccess.dll
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.pdb
+C:\Users\Max1m\source\repos\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\ref\FantasySport.DataAccess.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Application.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Core.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Application.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Core.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasyS.6E35CBEF.Up2Date
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\refint\FantasySport.DataAccess.dll
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.pdb
+C:\Users\anita\OneDrive\Desktop\DEV422\Final Project\assignment\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\ref\FantasySport.DataAccess.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.deps.json
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.DataAccess.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Application.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Core.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Application.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\bin\Release\net8.0\FantasySport.Core.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.csproj.AssemblyReference.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.AssemblyInfoInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.AssemblyInfo.cs
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasyS.6E35CBEF.Up2Date
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\refint\FantasySport.DataAccess.dll
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\FantasySport.DataAccess.pdb
+C:\Users\terry\Downloads\FantasySport-1\FantasySport\FantasySport.DataAccess\obj\Release\net8.0\ref\FantasySport.DataAccess.dll

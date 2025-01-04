@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terry\\source\\repos\\BookAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A578A3A6-3CEE-4E19-8771-86FDC7D56C15}|UserClient\\UserClient.csproj|c:\\users\\terry\\source\\repos\\bookapi\\userclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578A3A6-3CEE-4E19-8771-86FDC7D56C15}|UserClient\\UserClient.csproj|solutionrelative:userclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|c:\\users\\terry\\source\\repos\\bookapi\\bookapi\\protos\\book_service.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\protos\\book_service.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|c:\\users\\terry\\source\\repos\\bookapi\\bookapi\\bookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\bookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|c:\\users\\terry\\source\\repos\\bookapi\\bookapi\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|c:\\users\\terry\\source\\repos\\bookapi\\bookapi\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|c:\\users\\terry\\source\\repos\\bookapi\\bookapi\\bookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\bookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578A3A6-3CEE-4E19-8771-86FDC7D56C15}|UserClient\\UserClient.csproj|c:\\users\\terry\\source\\repos\\bookapi\\userclient\\userclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A578A3A6-3CEE-4E19-8771-86FDC7D56C15}|UserClient\\UserClient.csproj|solutionrelative:userclient\\userclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|c:\\users\\terry\\source\\repos\\bookapi\\bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578A3A6-3CEE-4E19-8771-86FDC7D56C15}|UserClient\\UserClient.csproj|c:\\users\\terry\\source\\repos\\bookapi\\userclient\\protos\\book_service.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A578A3A6-3CEE-4E19-8771-86FDC7D56C15}|UserClient\\UserClient.csproj|solutionrelative:userclient\\protos\\book_service.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|c:\\users\\terry\\source\\repos\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20688CAD-0975-46A6-BED9-F23399BA6051}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\UserClient\\Program.cs",
+              "RelativeDocumentMoniker": "UserClient\\Program.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\UserClient\\Program.cs",
+              "RelativeToolTip": "UserClient\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAH0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:06:14.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "BookAPI\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Protos\\greet.proto",
+              "RelativeToolTip": "BookAPI\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-19T03:01:29.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Services\\GreeterService.cs",
+              "RelativeToolTip": "BookAPI\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:00:58.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookApi.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\BookApi.cs",
+              "RelativeDocumentMoniker": "BookAPI\\BookApi.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\BookApi.cs",
+              "RelativeToolTip": "BookAPI\\BookApi.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAawGAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:53:09.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "book_service.proto",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Protos\\book_service.proto",
+              "RelativeDocumentMoniker": "BookAPI\\Protos\\book_service.proto",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Protos\\book_service.proto",
+              "RelativeToolTip": "BookAPI\\Protos\\book_service.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-17T05:09:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\BookAPI.csproj",
+              "RelativeDocumentMoniker": "BookAPI\\BookAPI.csproj",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\BookAPI.csproj",
+              "RelativeToolTip": "BookAPI\\BookAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T00:21:23.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserClient",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\UserClient\\UserClient.csproj",
+              "RelativeDocumentMoniker": "UserClient\\UserClient.csproj",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\UserClient\\UserClient.csproj",
+              "RelativeToolTip": "UserClient\\UserClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T02:31:01.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T02:34:32.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "book_service.proto",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\UserClient\\Protos\\book_service.proto",
+              "RelativeDocumentMoniker": "UserClient\\Protos\\book_service.proto",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\UserClient\\Protos\\book_service.proto",
+              "RelativeToolTip": "UserClient\\Protos\\book_service.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-19T02:43:59.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\terry\\source\\repos\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeToolTip": "BookAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:16:46.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "FantasySport.Score.Controllers.PerfomanceController",
+    "Method": "RunCompetition",
+    "RelativePath": "api/Perfomance/RunCompetition",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FantasySport.Score.Controllers.PerfomanceController",
+    "Method": "UpdateLeaderboardForPlayers",
+    "RelativePath": "api/Perfomance/UpdateLeaderboardForPlayers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FantasySport.Score.Controllers.PerfomanceController",
+    "Method": "UpdateLeaderboardForTeams",
+    "RelativePath": "api/Perfomance/UpdateLeaderboardForTeams",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

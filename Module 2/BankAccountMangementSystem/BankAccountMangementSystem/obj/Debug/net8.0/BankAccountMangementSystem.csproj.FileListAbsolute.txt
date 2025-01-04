@@ -1,0 +1,14 @@
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\bin\Debug\net8.0\BankAccountMangementSystem.exe
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\bin\Debug\net8.0\BankAccountMangementSystem.deps.json
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\bin\Debug\net8.0\BankAccountMangementSystem.runtimeconfig.json
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\bin\Debug\net8.0\BankAccountMangementSystem.dll
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\bin\Debug\net8.0\BankAccountMangementSystem.pdb
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\BankAccountMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\BankAccountMangementSystem.AssemblyInfoInputs.cache
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\BankAccountMangementSystem.AssemblyInfo.cs
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\BankAccountMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\BankAccountMangementSystem.dll
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\refint\BankAccountMangementSystem.dll
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\BankAccountMangementSystem.pdb
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\BankAccountMangementSystem.genruntimeconfig.cache
+C:\Users\terry\source\repos\BankAccountMangementSystem\BankAccountMangementSystem\obj\Debug\net8.0\ref\BankAccountMangementSystem.dll

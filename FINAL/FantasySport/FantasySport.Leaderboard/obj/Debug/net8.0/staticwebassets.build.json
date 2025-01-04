@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "v+SCs0vnhW7o4SvfPpGfTqyRmzeY2jhO2Rbfgi0Xmbw=",
+  "Source": "FantasySport.Leaderboard",
+  "BasePath": "_content/FantasySport.Leaderboard",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FantasySport.Leaderboard\\wwwroot",
+      "Source": "FantasySport.Leaderboard",
+      "ContentRoot": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\wwwroot\\",
+      "BasePath": "_content/FantasySport.Leaderboard",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\wwwroot\\index.html",
+      "SourceId": "FantasySport.Leaderboard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\terry\\Downloads\\FantasySport-1\\FantasySport\\FantasySport.Leaderboard\\wwwroot\\",
+      "BasePath": "_content/FantasySport.Leaderboard",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
